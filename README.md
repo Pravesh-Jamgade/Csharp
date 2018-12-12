@@ -1,2 +1,2 @@
-# Csharp-
+# Csharp
 Csharp practice codes
