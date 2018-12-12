@@ -1,0 +1,11 @@
+/home/blank/dotnet/learn/bin/Debug/netcoreapp2.2/learn.deps.json
+/home/blank/dotnet/learn/bin/Debug/netcoreapp2.2/learn.runtimeconfig.json
+/home/blank/dotnet/learn/bin/Debug/netcoreapp2.2/learn.runtimeconfig.dev.json
+/home/blank/dotnet/learn/bin/Debug/netcoreapp2.2/learn.dll
+/home/blank/dotnet/learn/bin/Debug/netcoreapp2.2/learn.pdb
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.csprojAssemblyReference.cache
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.csproj.CoreCompileInputs.cache
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.AssemblyInfoInputs.cache
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.AssemblyInfo.cs
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.dll
+/home/blank/dotnet/learn/obj/Debug/netcoreapp2.2/learn.pdb
