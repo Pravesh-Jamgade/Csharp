@@ -50,7 +50,28 @@ namespace learn  //app name
 
             // calling main of static class
             GalaxyClass.main(null);
-           
+
+            Console.Clear();
+
+            foreach(var item in IteratorMethods.GetSingleDigitNumbers())
+                Console.WriteLine(item);
+
+            foreach(var item in IteratorMethods.GetSingleDigitNumbersV2())
+                Console.WriteLine(item);
+
+            Console.WriteLine("\nGeneric Array ");
+
+            GenericArray<int> genericArray = new GenericArray<int>(5);
+            genericArray.setItem(0,1);
+
+            Console.WriteLine(genericArray.getItem(0));
+
+            // will produce assertion error by making assertion false message displays
+            Console.WriteLine(genericArray.getItem(6));
+
+            Console.Clear();
+
+            
         }
     }
 }
